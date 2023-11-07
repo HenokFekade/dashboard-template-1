@@ -24,6 +24,12 @@ module.exports = {
             borderColor: {
                 color: "rgba(0, 0, 0, 0.1)",
             },
+            flex: {
+                2: "2",
+            },
+            zIndex: {
+                10000: 10000,
+            },
             width: {
                 400: "400px",
                 760: "760px",
